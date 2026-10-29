@@ -1,6 +1,6 @@
 # Addendum: Landscape, Build-vs-Reuse, and Positioning
 
-> Companion to the project PRD ([`README.md`](../README.md)). This holds the technical and
+> Companion to the project PRD ([`PRD.md`](../PRD.md)). This holds the technical and
 > market depth that does not belong in the PRD narrative. Research date: 2026-10-29. Vendor
 > claims are self-reported unless a source is given; unverified items are flagged.
 
