@@ -1,6 +1,6 @@
 # PRD: AI Cloud Operations Platform
 
-**Status:** final · **Updated:** 2026-10-29 · **Companion:** [Landscape and build-vs-reuse addendum](docs/addendum.md)
+**Status:** final · **Updated:** 2026-10-29 · **Companions:** [Landscape and build-vs-reuse addendum](docs/addendum.md) · [Architecture spine](docs/architecture.md)
 
 ## 0. Document Purpose
 

@@ -13,6 +13,7 @@ The platform is designed around one principle:
 ## Documentation
 
 - [Product Requirements Document (v1)](PRD.md) — cost-first scope, 25 functional requirements, and success metrics
+- [Architecture spine](docs/architecture.md) — 21 invariants, port contracts, state machine, and budget enforcement
 - [Research addendum](docs/addendum.md) — landscape, build-vs-reuse, and locked technical decisions
 
 ---
